@@ -10,7 +10,7 @@
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS-Modules-white?style=for-the-badge&logo=cssmodules&logoColor=000000)
+![CSS Modules](https://img.shields.io/badge/CSSModules-white?style=for-the-badge&logo=cssmodules&logoColor=000000)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 <img height="10em" src="https://www.codewars.com/users/mELlowyyELlow/badges/micro" />
