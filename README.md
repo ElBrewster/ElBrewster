@@ -18,3 +18,8 @@
 ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=git&logoColor=181717)
 <!-- <img height="10em" src="https://www.codewars.com/users/mELlowyyELlow/badges/micro" /> -->
+
+[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+
