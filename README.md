@@ -17,4 +17,4 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=git&logoColor=181717)
-<img height="10em" src="https://www.codewars.com/users/mELlowyyELlow/badges/micro" />
+<!-- <img height="10em" src="https://www.codewars.com/users/mELlowyyELlow/badges/micro" /> -->
