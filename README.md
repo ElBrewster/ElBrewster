@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi!
+Hi, I'm El! I just finished a front-end bootcamp at the Turing School of Software and Design. 
+
+I currently live in Seattle with my two humans and my two cats.
+
+I love kayaking, gardening, video-gaming, oil-painting, and making my friends laugh with bad software jokes. 
+
+Some tech I am currently really excited about is the Web Fetch API, Remix.js, and conditional CSS with :has() and :nth-last-child().
+
+Choosing to switch to software engineering is one of the best choices I've made, I'm never bored and there's always a new problem to solve.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ElBrewster&theme=maroongold&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=45%2C200B0BE9%2C201660EE&stroke=00000000)](https://git.io/streak-stats)
 
