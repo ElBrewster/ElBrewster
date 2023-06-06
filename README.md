@@ -1,6 +1,6 @@
 ### Hi!
 
-⭐ Hi, I'm El! I just finished a front-end bootcamp at the Turing School of Software and Design. 
+⭐ Hi, I'm El! I just finished a seven month, fulltime, front-end bootcamp at the Turing School of Software and Design. 
 
 🏠 I currently live in Seattle with my two humans and my two cats.
 
