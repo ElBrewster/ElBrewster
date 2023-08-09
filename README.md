@@ -26,9 +26,8 @@
 ![Sass](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=181717)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=55b5fd)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000000)
+![Vite](https://img.shields.io/badge/Vite-ffffff?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Heroku](https://img.shields.io/badge/Heroku-8d6fb2?style=for-the-badge&logo=heroku&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <!-- <img height="10em" src="https://www.codewars.com/users/mELlowyyELlow/badges/micro" /> -->
