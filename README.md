@@ -10,8 +10,6 @@
 
 🌈 Choosing to switch to software engineering is one of the best choices I've made, I'm never bored and there's always a new problem to solve.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElBrewster&theme=maroongold&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=45%2C200B0BE9%2C201660EE&stroke=00000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBrewster&layout=compact&theme=maroongold&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=45%2C200B0BE9%2C201660EE&border=970C94C0)](https://github.com/ElBrewster/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
